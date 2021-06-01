@@ -11,14 +11,14 @@ Feel free to reach out!
 
 ### Technologies & Tools 🧰
 
-![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=NodeJS&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=React&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/MacOS-informational?style=flat-square&logo=MacOS&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=Docker&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/EC2-informational?style=flat-square&logo=Amazon&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/CODE-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/TOOL-NodeJS-informational?style=flat-square&logo=NodeJS&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/TOOL-ReactJS-informational?style=flat-square&logo=React&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=MacOS&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/TOOL-PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/TOOL-Docker-informational?style=flat-square&logo=Docker&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/TOOL-EC2-informational?style=flat-square&logo=Amazon&logoColor=white&color=yellow)
 
 
 
